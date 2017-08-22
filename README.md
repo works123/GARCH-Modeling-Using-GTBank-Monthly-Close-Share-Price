@@ -10,9 +10,8 @@ I would appreciate it if you could investigate this data and provide a more appr
 
 The data provided are have available publicly on different websites 
 1. GTBank daily share price data (17 Feb 2003 - 11 August 2017)
-2. GTBank month close share price data (Feb 2003 - March 2017)
-3. Nigerian Deposit Money Bank loan-to-deposit data
-4. Nigerian 91 day treasury bill monthly  rate data
+2. Nigerian Deposit Money Bank loan-to-deposit data
+3. Nigerian 91 day treasury bill monthly  rate data
 
 I have also provided the R script I used in attempting to model the Time series derived from modeling the GTBank month close share price time series.
 
