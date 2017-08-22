@@ -13,5 +13,5 @@ The data provided are have available publicly on different websites
 2. Nigerian Deposit Money Bank loan-to-deposit data
 3. Nigerian 91 day treasury bill monthly  rate data
 
-I have also provided the R script I used in attempting to model the Time series derived from modeling the GTBank month close share price time series.
+I have also provided the R script(garch_final.R) I used in attempting to model the Time series derived from modeling the GTBank month close share price time series.
 
