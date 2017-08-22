@@ -1,8 +1,8 @@
 # Investigating GARCH-Modeling - monthly loan_to_deposit ratio, monthly 91 day treasury bill data, GTBank share price 
 This is a repository to enable me investigate using GARCH modeling.  I investigated the following time series
-a. Nigerian Deposit Money Bank loan-to-deposit time series (DMB_data)
-b. Nigerian 91 day treasury bill monthly  rate time series (tb91_data)
-c. GTBank (Nigerian Bank) monthly closing share price time series (gtbank data)
+a. Nigerian Deposit Money Bank loan-to-deposit time series (DMB_data.csv)
+b. Nigerian 91 day treasury bill monthly  rate time series (tb_primelending.csv)
+c. GTBank (a Nigerian Money Bank) monthly closing share price time series (GTB_daily_price.csv)
 
 While I adequately modelled  the DMB_data and tb91_data using ARIMA modeling, modeling the share price (gtb_data) was a different challenge.  I attempted modeling it in ARIMA and GARCH but still see alot of opportunity to effectively model the stock time series. 
 
